@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BHI385
+D Accelerometer, Gyroscope Sensor I2C, SPI Output -40C ~ 85C
+K
+F https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bhi385-ds000.pdf
+$ENDCMP
+#
+#End Doc Library
